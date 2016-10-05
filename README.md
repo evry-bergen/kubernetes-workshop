@@ -40,7 +40,7 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 
 ## 2. Labs
 
-* `TBA`
+1. [Creating and managing pods](./labs/1-pods)
 
 ## 3. Reference
 
