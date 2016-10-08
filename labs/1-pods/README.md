@@ -1,4 +1,4 @@
-# Lab 1: Creating and managing pods
+# Lab 1: Creating and Managing Pods
 
 At the core of Kubernetes is the Pod. Pods represent a logical application and
 hold a collection of one or more containers and volumes. In this lab you will
