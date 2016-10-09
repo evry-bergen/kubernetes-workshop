@@ -43,6 +43,7 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 1. [Creating and Managing Pods](./labs/1-pods)
 1. [Monitoring and Health Checks](./labs/2-health)
 1. [Configurations and Secrets](./labs/3-config)
+1. [Creating and Managing Services](./labs/4-services)
 
 ## 3. Reference
 
