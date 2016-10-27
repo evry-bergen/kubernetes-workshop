@@ -109,3 +109,7 @@ When you are done you can exit your open shells and run the following command:
 ```
 kubectl delete -f monolith.yaml
 ```
+
+-----
+
+<p align="right"><a href="../2-health">Lab 2: Monitoring and Health Checks ➡️</a></p>

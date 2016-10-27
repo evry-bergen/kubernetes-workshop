@@ -144,3 +144,7 @@ When you are done you can exit your open shells and run the following command:
 ```
 kubectl delete -f healthy-monolith.yaml
 ```
+
+-----
+
+<p align="right"><a href="../3-config">Lab 3: Configurations and Secrets ➡️</a></p>

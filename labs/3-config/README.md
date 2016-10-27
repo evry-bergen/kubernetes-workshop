@@ -122,3 +122,7 @@ When you are done you can exit your open shells and run the following command:
 ```
 kubectl delete -f secure-monolith.yaml
 ```
+
+-----
+
+<p align="right"><a href="../4-services">Lab 4: Creating and Managing Services ➡️</a></p>
