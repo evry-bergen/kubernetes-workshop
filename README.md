@@ -1,4 +1,4 @@
-# Kubernetes Workshop
+![Kubernetes Workshop](./labs/assets/header.png)
 
 In this workshop you will learn how to:
 
@@ -44,6 +44,7 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 1. [Monitoring and Health Checks](./labs/2-health)
 1. [Configurations and Secrets](./labs/3-config)
 1. [Creating and Managing Services](./labs/4-services)
+1. [Creating and Managing Deployments](./labs/5-deployments)
 
 ## 3. Reference
 
