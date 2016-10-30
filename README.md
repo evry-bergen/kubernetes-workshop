@@ -28,6 +28,7 @@ $ minikube start
 $ minikube version
 $ minikube status
 $ kubectl version
+$ kubectl cluster-info
 ```
 
 ### 1.3 Clone this repo
