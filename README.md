@@ -46,6 +46,7 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 1. [Configurations and Secrets](./labs/3-config)
 1. [Creating and Managing Services](./labs/4-services)
 1. [Creating and Managing Deployments](./labs/5-deployments)
+1. [Rolling out Updates](./labs/6-updates)
 
 ## 3. Reference
 
