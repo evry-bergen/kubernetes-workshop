@@ -51,11 +51,17 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 ## 3. Reference
 
 * [Kubernetes][k8s]
+* [Kubernetes User Guide][k8sguide]
+* [Kubernetes 101][k8s101]
+* [Kubernetes 201][k8s201]
 * [`kubectl`][kubectl]
 * [Docker][docker]
 
 [docker]: https://docs.docker.com/
+[k8s101]: http://kubernetes.io/docs/user-guide/walkthrough/
+[k8s201]: http://kubernetes.io/docs/user-guide/walkthrough/k8s201/
 [k8s]: http://kubernetes.io/docs/
+[k8sguide]: http://kubernetes.io/docs/user-guide/
 [k8sui]: http://kubernetes.io/docs/user-guide/ui/
 [kubectl]: http://kubernetes.io/docs/user-guide/kubectl-overview/
 [kubectldl]: http://kubernetes.io/docs/getting-started-guides/minikube/#install-kubectl
