@@ -50,6 +50,7 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 ## 3. Reference
 
 * [Kubernetes][k8s]
+* [`kubectl`][kubectl]
 * [Docker][docker]
 
 [docker]: https://docs.docker.com/
