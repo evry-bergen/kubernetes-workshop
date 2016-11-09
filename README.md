@@ -16,7 +16,8 @@ Kubernetes version: 1.4.0
 1. Download and install [VirtualBox][virtualboxdl].
 2. Download and install [`kubectl`][kubectldl].
 3. Download and install [Minikube][minik8sdl].
-4. Start minikube:
+4. Download and install [curl][curldl].
+5. Start minikube:
 
 ```
 $ minikube start
@@ -57,6 +58,7 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 * [`kubectl`][kubectl]
 * [Docker][docker]
 
+[curldl]: https://curl.haxx.se/dlwiz/?type=bin
 [docker]: https://docs.docker.com/
 [k8s101]: http://kubernetes.io/docs/user-guide/walkthrough/
 [k8s201]: http://kubernetes.io/docs/user-guide/walkthrough/k8s201/
