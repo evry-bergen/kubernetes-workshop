@@ -115,6 +115,10 @@ data, then expose them to Pods at runtime. In this lab you learned how to expose
 Secrets and ConfigMaps to Pods using volume mounts. You also learned how to run
 multiple containers in a single Pod.
 
+## Do not Clean Up
+
+The pods in this exercise is used in the next one, so do not remove them yet.
+
 -----
 
 <p align="right"><a href="../4-services">Lab 4: Creating and Managing Services ➡️</a></p>
