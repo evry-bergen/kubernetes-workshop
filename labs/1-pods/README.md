@@ -64,6 +64,8 @@ to issue `curl` commands.
 kubectl port-forward monolith 10080:80
 ```
 
+Open a new terminal window for the following commands:
+
 ```
 curl http://127.0.0.1:10080
 ```
