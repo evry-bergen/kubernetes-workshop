@@ -81,7 +81,7 @@ Use the `kubectl label` command to add the missing `secure=enabled` label to the
 `secure-monolith` Pod.
 
 ```
-kubectl label pods secure-monolith 'secure=enabled'
+kubectl label pods secure-monolith "secure=enabled"
 ```
 
 View the list of endpoints on the `monolith` service:
