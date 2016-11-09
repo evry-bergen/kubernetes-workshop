@@ -23,7 +23,8 @@ In this lab you will learn how to:
 Explore the `healthy-monolith` pod configuration file:
 
 ```
-cat healthy-monolith.yaml
+cat healthy-monolith.yaml   # on mac/linux
+type healthy-monolith.yaml  # on windows
 ```
 
 Create the `healthy-monolith` pod using kubectl:

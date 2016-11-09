@@ -19,7 +19,8 @@ Explore the monolith service configuration in
 [monolith-service.yaml](./monolith-service.yaml):
 
 ```
-cat monolith-service.yaml
+cat monolith-service.yaml   # on mac/linux
+type monolith-service.yaml  # on window
 ```
 
 Create the monolith service using kubectl:

@@ -74,7 +74,8 @@ In this tutorial you will expose the `nginx-proxy-conf` ConfigMap and the
 Examine the `secure-monolith` pod configuration file:
 
 ```
-cat secure-monolith.yaml
+cat secure-monolith.yaml    # on mac/linux
+type secure-monolith.yaml   # on window
 ```
 
 ### Quiz

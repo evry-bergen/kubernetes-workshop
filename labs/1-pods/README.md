@@ -16,7 +16,8 @@ the kubectl command line tool.
 Explore the `monolith` Pod configuration file ([monolith.yaml](./monolith.yaml)):
 
 ```
-cat monolith.yaml
+cat monolith.yaml   # on mac/linux
+type monolith.yaml  # on windows
 ```
 
 Use the [`kubectl create`][kubectl_create] command to create the `monolith` Pod
