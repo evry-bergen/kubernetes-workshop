@@ -79,7 +79,8 @@ curl http://127.0.0.1:10080/secure
 curl -u user http://127.0.0.1:10080/login
 ```
 
-> Type `password` at the prompt.
+> Type `password` at the prompt. If you do not see the prompt change `-u user`
+> to `-u user:password`.
 
 ```
 curl -H "Authorization: Bearer <token>" http://127.0.0.1:10080/secure
