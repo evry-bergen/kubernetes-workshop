@@ -11,6 +11,8 @@ Kubernetes version: 1.4.0
 
 ## 1. Workshop setup
 
+Windows users can follow this step-by-step [install guide for Windows](windows).
+
 ### 1.1 Set up Minikube
 
 1. Download and install [VirtualBox][virtualboxdl].
@@ -70,3 +72,4 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 [minik8s]: https://github.com/kubernetes/minikube
 [minik8sdl]: https://github.com/kubernetes/minikube/releases/latest
 [virtualboxdl]: https://www.virtualbox.org/wiki/Downloads
+[windows]: https://github.com/evry-bergen/kubernetes-workshop/wiki/Windows-Setup-Guide
