@@ -57,6 +57,7 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 * [Kubernetes User Guide][k8sguide]
 * [Kubernetes 101][k8s101]
 * [Kubernetes 201][k8s201]
+* [Kubernetes Master Components](k8scomponents)
 * [`kubectl`][kubectl]
 * [Docker][docker]
 
@@ -65,6 +66,7 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 [k8s101]: http://kubernetes.io/docs/user-guide/walkthrough/
 [k8s201]: http://kubernetes.io/docs/user-guide/walkthrough/k8s201/
 [k8s]: http://kubernetes.io/docs/
+[k8scomponents]: http://kubernetes.io/docs/admin/cluster-components/
 [k8sguide]: http://kubernetes.io/docs/user-guide/
 [k8sui]: http://kubernetes.io/docs/user-guide/ui/
 [kubectl]: http://kubernetes.io/docs/user-guide/kubectl-overview/
