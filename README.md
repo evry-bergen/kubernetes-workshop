@@ -11,7 +11,7 @@ Kubernetes version: 1.5.1
 
 ## 1. Workshop setup
 
-Windows users can follow this step-by-step [install guide for Windows](windows).
+Windows users can follow this step-by-step [install guide for Windows](https://github.com/evry-bergen/kubernetes-workshop/wiki/Windows-Setup-Guide).
 
 ### 1.1 Set up Minikube
 
