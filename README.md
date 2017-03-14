@@ -6,7 +6,7 @@ In this workshop you will learn how to:
 * Deploying applications and services using [`kubectl`][kubectl]
 * Managing applications using the [Web UI (dashboard)][k8sui]
 
-Kubernetes version: 1.5.1
+Kubernetes version: 1.5.4
 
 
 ## 1. Workshop setup
