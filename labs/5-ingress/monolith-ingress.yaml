@@ -1,0 +1,17 @@
+kind: Ingress
+apiVersion: extensions/v1beta1
+metadata:
+  name: "monolith"
+spec:
+  #tls:
+  #- hosts:
+  #    - monolith.com
+  #  secretName: tls-certs
+  rules:
+  - host: monolith.com
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: monolith
+          servicePort: 80

@@ -8,7 +8,12 @@ spec:
     secure: "enabled"
   ports:
     - protocol: "TCP"
+      name: "https"
       port: 443
       targetPort: 443
       nodePort: 31000
+    - protocol: "TCP"
+      name: "http"
+      port: 80
+      targetPort: 80
   type: NodePort

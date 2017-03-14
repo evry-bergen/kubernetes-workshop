@@ -1,4 +1,4 @@
-# Lab 5: Creating and Managing Deployments
+# Lab 6: Creating and Managing Deployments
 
 [`Deployments`][deployments] abstract away the low level details of managing
 [`Pods`][pods]. `Pods` are tied to the lifetime of the node they are created on.
@@ -142,4 +142,4 @@ how to create, expose and scale deployments.
 
 -----
 
-<p align="right"><a href="../6-updates">Lab 6: Rolling out Updates ➡️</a></p>
+<p align="right"><a href="../7-updates">Lab 7: Rolling out Updates ➡️</a></p>

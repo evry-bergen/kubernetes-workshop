@@ -1,4 +1,4 @@
-# Lab 6: Rolling out Updates
+# Lab 7: Rolling out Updates
 
 Kubernetes makes it easy to rollout updates to your applications using the
 builtin rolling update mechanism. In this lab you will learn how to:

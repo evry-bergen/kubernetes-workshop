@@ -48,8 +48,9 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 2. [Monitoring and Health Checks](./labs/2-health)
 3. [Configurations and Secrets](./labs/3-config)
 4. [Creating and Managing Services](./labs/4-services)
-5. [Creating and Managing Deployments](./labs/5-deployments)
-6. [Rolling out Updates](./labs/6-updates)
+5. [Routing Ingress Traffic](./labs/5-ingress)
+6. [Creating and Managing Deployments](./labs/6-deployments)
+7. [Rolling out Updates](./labs/7-updates)
 
 ## 3. Reference
 

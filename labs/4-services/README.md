@@ -133,14 +133,10 @@ kubectl describe services monolith
 
 In this lab you learned how to expose Pods using services and labels.
 
-## Clean Up
+## Do not Clean Up
 
-When you are done you can exit your open shells and run the following command:
-
-```
-kubectl delete -f monolith-service.yaml
-```
+The pods in this exercise is used in the next one, so do not remove them yet.
 
 -----
 
-<p align="right"><a href="../5-deployments">Lab 5: Creating and Managing Deployments ➡️</a></p>
+<p align="right"><a href="../5-ingress">Lab 5: Routing Ingress Traffic ➡️</a></p>
