@@ -98,7 +98,7 @@ curl monolith.com --resolve monolith.com:80:<MINIKUBE_IP>
 
 ```
 kubectl patch ingress monolith --type=json \
-  -p='[{"op": "replace", "path": "/spec/rules/0 /host", "value": "awesome.com"}]'
+  -p='[{"op": "replace", "path": "/spec/rules/0/host", "value": "awesome.com"}]'
 ```
 
 ```
