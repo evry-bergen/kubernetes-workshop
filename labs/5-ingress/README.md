@@ -116,7 +116,6 @@ When you are done you can exit your open shells and run the following commands:
 ```
 kubectl delete pod secure-monolith
 kubectl delete configmap nginx-proxy-conf
-kubectl delete secret tls-certs
 kubectl delete service monolith
 kubectl delete ingress monolith
 ```
