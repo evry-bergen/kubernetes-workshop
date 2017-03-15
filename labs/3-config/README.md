@@ -100,7 +100,7 @@ kubectl port-forward secure-monolith 10443:443
 Use the `curl` command to test the HTTPS endpoint:
 
 ```
-curl --cacert tls/ca.pem https://127.0.0.1:10443
+curl --cacert tls/ca.crt https://127.0.0.1:10443
 ```
 
 Use the `kubectl logs` command to verify traffic to the `secure-monolith` Pod:
