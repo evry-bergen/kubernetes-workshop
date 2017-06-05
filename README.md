@@ -70,7 +70,7 @@ $ git clone https://github.com/evry-bergen/kubernetes-workshop.git
 [k8sguide]: http://kubernetes.io/docs/user-guide/
 [k8sui]: http://kubernetes.io/docs/user-guide/ui/
 [kubectl]: http://kubernetes.io/docs/user-guide/kubectl-overview/
-[kubectldl]: https://kubernetes.io/docs/user-guide/prereqs/
+[kubectldl]: https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-binary-via-curl
 [minik8s]: https://github.com/kubernetes/minikube
 [minik8sdl]: https://github.com/kubernetes/minikube/releases/latest
 [virtualboxdl]: https://www.virtualbox.org/wiki/Downloads
