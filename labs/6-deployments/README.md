@@ -140,6 +140,10 @@ curl -k https://<MINIKUBE-IP>:31000
 Deployments are the preferred way to manage application deployments. You learned
 how to create, expose and scale deployments.
 
+## Do not Clean Up
+
+The pods in this exercise is used in the next one, so do not remove them yet.
+
 -----
 
 <p align="right"><a href="../7-updates">Lab 7: Rolling out Updates ➡️</a></p>
