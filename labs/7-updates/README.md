@@ -82,3 +82,16 @@ In this lab you learned how to rollout updates to your applications by modifying
 deployment objects to trigger rolling updates. You also learned how to pause and
 resume an active rolling update and rollback it back using the `kubectl rollout`
 command.
+
+## Clean Up
+
+When you are done you can exit your open shells and run the following commands:
+
+```
+kubectl delete deploy hello
+kubectl delete service hello
+kubectl delete deploy frontend
+kubectl delete service frontend
+kubectl delete deploy auth
+kubectl delete service auth
+```
