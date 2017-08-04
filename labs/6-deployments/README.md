@@ -142,7 +142,7 @@ how to create, expose and scale deployments.
 
 ## Do not Clean Up
 
-The pods in this exercise is used in the next one, so do not remove them yet.
+The deployments in this exercise is used in the next one, so do not remove them yet.
 
 -----
 
